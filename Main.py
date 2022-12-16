@@ -1,5 +1,5 @@
 from interacaoUsuario import *
-from Produto import *
+from classe import *
 
 
 def menu():
