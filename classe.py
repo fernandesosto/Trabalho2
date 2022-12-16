@@ -1,4 +1,4 @@
-from interacaojason import lerJson, gravarJson
+from interacaojson import lerJson, gravarJson
 
 class Produto :
     sku : int
